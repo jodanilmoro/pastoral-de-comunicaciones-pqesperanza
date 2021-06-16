@@ -4,7 +4,7 @@
 
 En este repositorio puedes encontrar todo el código fuente de mi página web.
 
-**Web**: [Antonio Payá](http://www.antoniopg.tk)
+**Web**: [Jodanil Moro](http://www.antoniopg.tk)
 
 ## Herramientas:
 
